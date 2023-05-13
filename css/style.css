@@ -40,14 +40,14 @@
 
 .bg__1{
     width: 100%;
-    height: 35%;
+    height: 32%;
 
     background-color: aliceblue;
 }
 
 .bg__2{
     width: 100%;
-    height: 65%;
+    height: 68%;
 
     background-color: rgb(73, 89, 103);
 }
@@ -209,6 +209,13 @@ li:nth-child(1):hover ~ .dot {
     top: 11%;
     left: 10.5%;
 }
+
+.ui_container{
+    width: 100%;
+    height: 3650px;
+    display: flex;
+    flex-direction: column;
+}
 .ui_container p{
     width: 600px;
     color: white;
@@ -258,6 +265,70 @@ li:nth-child(1):hover ~ .dot {
 #linktoworks:hover{
     font-weight: 400;
 }
+
+.ux_container{
+    width: 65%;
+    height: 1800px;
+    display: flex;
+    flex-direction: column;
+
+    position: relative;
+    top:30%;
+    left: 17%;
+    border: 1px solid gray;
+    background-color: aliceblue;
+    box-shadow: rgba(205, 205, 219, 0.2) 0px 10px 35px 0px;
+    
+}
+
+.ux_flex{
+    width: 100%;
+    height:580px;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+
+.flex_logo-text{
+    width: 40%;
+    height: 600px;
+    margin: 60px 10px 10px 50px;
+    
+}
+.omelogo_container{
+    width: 125px;
+    height: 80px;
+    
+    padding-top: 5px;
+    padding-left: 12px;
+
+    
+    background-color: white;
+    border-radius: 20px;
+}
+
+.flex_logo-text h3{
+    padding-top: 20px;
+    font-size: 38px;
+    color: rgba(23, 23, 23, 0.779);
+}
+
+.flex_logo-text p{
+    padding-top: 20px;
+    font-size: 18px;
+    color: rgba(23, 23, 23, 0.886);
+}
+.flex_screen{
+    height: 480px;
+    margin-top: 60px;
+    padding-left: 50px;
+}
+
+.flow img{
+    display: block;
+    margin: 0 auto;
+}
+
 
 .about{
     width: 600px;
