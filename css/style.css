@@ -96,8 +96,7 @@
 }
 .ui_container{
   
-  width: 100%;
-  height: 2380px;
+ 
   padding-top: 60px;
   background-color:  rgb(73, 89, 103);
 
@@ -212,7 +211,7 @@ li:nth-child(1):hover ~ .dot {
 
 .ui_container{
     width: 100%;
-    height: 3650px;
+    height: 3000px;
     display: flex;
     flex-direction: column;
 }
@@ -368,7 +367,7 @@ li:nth-child(1):hover ~ .dot {
     flex-direction: column;
     align-items: flex-start;
     position: relative;
-    top: 36%;
+    top: 43%;
     left: 10%;
     
 }
