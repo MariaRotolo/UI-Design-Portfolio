@@ -341,7 +341,7 @@ li:nth-child(1):hover ~ .dot {
     
 }
 
-.about h2{
+.about a{
     
     color: white;
     font-family: 'Montserrat', sans-serif;
