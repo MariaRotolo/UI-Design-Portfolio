@@ -199,7 +199,7 @@ li:nth-child(1):hover ~ .dot {
     text-decoration: none;
 
     position: relative;
-    top: 10%;
+    top: 6%;
     left: 10%;
   }
 
