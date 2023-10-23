@@ -372,7 +372,7 @@ li:nth-child(1):hover ~ .dot {
     
 }
 
-.contact h2{
+.contact a{
     
     color: white;
     font-family: 'Montserrat', sans-serif;
